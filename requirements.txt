@@ -1,0 +1,8 @@
+chess==1.10.0
+ipython==8.9.0
+numpy==1.24.4
+peewee==3.17.0
+pytorch_lightning==2.1.2
+Requests==2.31.0
+torch==2.0.1
+zstandard==0.22.0
